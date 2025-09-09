@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Mcp_ganeshProject
+  gitServerName: mcp_ganesh
+  gitUrl: https://github.com/Ganesh-Jathar-Git
+  gitUsername: Ganesh-Jathar-Git
+  gitBranch: main
