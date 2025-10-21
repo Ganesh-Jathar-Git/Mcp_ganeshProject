@@ -7,8 +7,3 @@ packages:
   gitUrl: https://github.com/Ganesh-Jathar-Git
   gitUsername: Ganesh-Jathar-Git
   gitBranch: main
-- name: WxMCPServer
-  gitServerName: mcp_ganesh
-  gitUrl: https://github.com/IBM
-  gitUsername: Ganesh-Jathar-Git
-  gitBranch: main
